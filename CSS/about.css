@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:8px;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 120%;
+    
+}
+
+
+body{
+    display: block;
+    background: linear-gradient(to bottom, #000, #0000ff);
+    background-repeat: no-repeat;
+}
+
+h1{
+    color:aliceblue;
+}
+
+p{
+ color:gainsboro
+}
+
+h2{
+color:aliceblue;
+}
+
+.second-paragraph{
+    color:aliceblue;
+}
+
+.third-paragraph{
+    color:aliceblue;
+}

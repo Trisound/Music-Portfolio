@@ -5,14 +5,26 @@
 }
 
 html,body{
-    height: 150%;
+    height: 120%;
     
+}
+
+header{
+    padding: 8px;
 }
 
 ul{
     display:flex;
+    justify-content: center;
+    
 
     font-size: 2.1em;
+}
+
+a{
+    color:rgb(213, 213, 226);
+    text-decoration: none;text-decoration: none;
+
 }
 
 body{
@@ -49,6 +61,7 @@ h1{
     overflow: hidden;
     border-radius: 10%  2rem;
     animation: fadeIn 5s;
+    padding:8px;
 }
 
 img{
