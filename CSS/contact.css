@@ -9,9 +9,6 @@ html,body{
     
 }
 
-header{
-    padding: 8px;
-}
 
 body{
     display: block;
@@ -19,10 +16,24 @@ body{
     background-repeat: no-repeat;
 }
 
+
 h1{
+    display:flex;
+    justify-content: center;
     color:aliceblue;
 }
 
 p{
- color:gainsboro
+    display:flex;
+    justify-content: center;
+    color:gainsboro;
+    padding:8px;
 }
+
+link,.github{
+    display:flex;
+    justify-content: center;
+    color:gainsboro;
+    padding:8px;
+}
+
